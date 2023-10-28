@@ -1,4 +1,4 @@
-# 🏴 Welcome to XDEV's Capture The Flag (CTF) Repository on GitHub! 🏴
+# 🏴 Welcome to XDEV's Capture The Flag (CTF) 🏴
 
 Explore our world of cybersecurity challenges and puzzles, designed to sharpen your hacking and problem-solving skills. 🌐💻
 
